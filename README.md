@@ -1,2 +1,2 @@
 # Music-Website-Structure
-Its all aboout my first project
+Its a simple music web application, bulit using HTML and CSS code.
